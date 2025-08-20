@@ -8,7 +8,7 @@ Este proyecto contiene un **dashboard interactivo en Streamlit** para analizar y
 
 Puedes acceder al dashboard en Streamlit mediante este enlace público:
 
-[🔗 Ver Dashboard Interactivo](TU_LINK_DE_NGROK_AQUI)
+[🔗 Ver Dashboard Interactivo](https://tableau-supertienda-predicciones-app-dashboard.streamlit.app/)
 
 ---
 
