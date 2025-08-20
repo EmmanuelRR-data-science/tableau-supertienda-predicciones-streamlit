@@ -18,9 +18,9 @@ def main():
     # ===============================
     file = st.file_uploader("📂 Sube tu dataset (Excel o CSV, versión en español únicamente)", type=["xls","xlsx","csv"])
 
-    if file:
+    if file is not None:
         if file.name.endswith(".csv"):
-            df = pd.read_csv(file)
+            df = pd.read_csv(file, encoding="utf-8")
         else:
             df = pd.read_excel(file, engine="openpyxl")
 
