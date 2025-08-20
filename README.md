@@ -37,4 +37,6 @@ Puedes acceder al dashboard en Streamlit mediante este enlace público:
 
 Ejecuta el Notebook directo en Google Colab con el dataset cargado
 
+**Nota:** Prueba el dashboard en Streamlit usando el archivo Muestra - Supertienda.csv
+
 
